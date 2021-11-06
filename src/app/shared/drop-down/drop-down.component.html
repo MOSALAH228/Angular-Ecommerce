@@ -1,0 +1,15 @@
+<!-- dropdown--opened to open -->
+<!-- [ngClass]="{ 'dropdown--opened': cartIsOpen }" -->
+<div
+  class="dropdown dropdown--left"
+  [ngClass]="{ 'dropdown--opened': cartIsOpen }"
+>
+  <!-- header -->
+  <div class="dropdown__header" (click)="cartIsOpen = !cartIsOpen">
+    <ng-content select=".header"> </ng-content>
+  </div>
+  <!-- body -->
+  <div class="dropdown__body">
+    <ng-content select=".body"> </ng-content>
+  </div>
+</div>
