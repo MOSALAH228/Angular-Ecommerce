@@ -1,7 +1,9 @@
+-Ecommerce app module that u can show your products , u can add a new product or u can delete , u can 
+search for the product that u want , and a lot of amazing stuff using AngularJs.
+
 ![screencapture-localhost-4200-product-add-2021-11-25-02_35_08](https://user-images.githubusercontent.com/77206236/144940822-309bf992-6ba0-43eb-ae06-1a183ebce170.png)
 ![screencapture-localhost-4200-product-details-1-2021-11-25-02_35_48](https://user-images.githubusercontent.com/77206236/144940825-f8a419b7-c381-411e-bf66-7f5b8e7ac845.png)
 ![screencapture-localhost-4200-2021-11-25-02_33_51](https://user-images.githubusercontent.com/77206236/144940828-1914a48c-0a0f-4ad0-9fac-a63e2dee3189.png)
-
 
 
 
